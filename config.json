@@ -1,6 +1,13 @@
 {
     "rootFolders": [
-        "C:\\Somefolder",
-        "C:\\Otherfolder\\WWW"
+        "/var/www/html",
+        "/var/www/html",
+        "/var/www/html",
+        "/var/www/html"
+    ],
+    "ports": [
+        8080,
+	8181,
+        8888
     ]
 }
